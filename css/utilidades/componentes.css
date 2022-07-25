@@ -1,4 +1,4 @@
-.introducao a {
+.botao {
   display: inline-block;
   padding: 16px 32px;
   background: linear-gradient(#ffbf00, #f2a50c);
@@ -14,11 +14,11 @@
 }
 
 @media (max-width: 600px) {
-  .introducao a {
+  .botao a {
     padding: 12px 16px;
     font-size: 16px;
   }
 }
-.introducao a:hover {
+.botao a:hover {
   background: linear-gradient(#ffbf6d, #e59317);
 }
