@@ -20,6 +20,7 @@
   grid-template-columns: 1fr auto;
   background-color: var(--cor-12);
   padding: 32px 32px 32px 60px;
+  border-radius: 4px;
 }
 
 .seguros-item h3 {
@@ -64,4 +65,8 @@
   .seguros {
     grid-template-columns: 1fr;
   }
+}
+
+#seguros .seguros {
+  padding-top: 0px;
 }
