@@ -11,6 +11,9 @@
 .contato-formularios {
   padding: 60px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
 }
 
 .contato-dados {
@@ -75,6 +78,7 @@
   .contato-dados,
   .contato-formulario {
     padding: 20px;
+    margin: 0px;
   }
 
   .contato-dados {
