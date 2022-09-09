@@ -82,3 +82,12 @@ galeria.forEach(eventosGaleria);
 
 //Animação
 if (window.SimpleAnime) new SimpleAnime();
+
+//_____________________________________________________________
+
+//Clipboard
+if (window.ClipboardJS) {
+  new ClipboardJS(".introducao-conteudo p");
+}
+
+//_____________________________________________________________
