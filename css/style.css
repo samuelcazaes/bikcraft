@@ -34,3 +34,7 @@
 
 /*orcamento*/
 @import "./orcamento/orcamento.css";
+
+/*animação*/
+
+@import "./utilidades/animacao.css";
